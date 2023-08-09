@@ -17,6 +17,7 @@ Simple HTTP API for playing with `User` model.
 - `views/users.py`: all users endpoints
 
 
+
 ## Setup
 
 ```
